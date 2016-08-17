@@ -1,1 +1,2 @@
-# ReactNativeAnimation
+# ReactNativeReduxConnectExample
+foo
